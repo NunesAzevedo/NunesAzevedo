@@ -10,7 +10,6 @@ Welcome to my personal GitHub profile — here you’ll find academic, experimen
 
 </div>
 
----
 
 ## About me 🙋‍♂️
 I'm a **Computer Engineering student at the University of São Paulo (USP – São Carlos campus)**, with strong interests in **software development, low-level systems, and applied engineering**.
@@ -21,7 +20,6 @@ On GitHub, I maintain **personal projects**, including **automation tools**, **L
 
 I enjoy understanding how systems work *from the ground up* — from memory management and instruction sets to higher-level abstractions and applications.
 
----
 
 ## Areas of interest 🚀
 - Systems programming and low-level development  
@@ -30,7 +28,6 @@ I enjoy understanding how systems work *from the ground up* — from memory mana
 - Robotics and engineering applications  
 - Linux-based development environments  
 
----
 
 <div align="center">
 
