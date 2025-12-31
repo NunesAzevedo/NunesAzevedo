@@ -1,26 +1,45 @@
-# Hello There! 👋
+
+# Hello there! 👋
 ---
-This is my personal GitHub account with some of my personal and university projects.
+Welcome to my personal GitHub profile — here you’ll find academic, experimental, and personal projects developed throughout my journey in computer engineering.
 
 <div align="center">
-<!-- Obiwan-Kenobi Gif -->
-  <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" height="170" width="auto" alt="Obi-Wan Kenobi Hello There" />
-  
-<!-- General Grievous Gif -->
-<img src="https://media1.tenor.com/m/smu7cmwm4rYAAAAd/general-kenobi-kenobi.gif" height="170" width="auto" alt="General Grievous General Kenobi" />
+  <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" height="170" alt="Obi-Wan Kenobi Hello There" />
+  <img src="https://media1.tenor.com/m/smu7cmwm4rYAAAAd/general-kenobi-kenobi.gif" height="170" alt="General Grievous General Kenobi" />
 
   <br><br>
 
-<!-- Github stats -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=visual_studio_code&hide_border=true" alt="GitHub General Stats" />
 
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=visual_studio_code&hide_border=true" alt="Most Used Languages" />
 </div>
 
-## About me 🙋‍♂️
 ---
-I'm a computer engineering student at USP - University of São Paulo (São Carlos campus), Brazil. I work on robotics projects and participate in student competitions with them.
+
+## About me 🙋‍♂️
+I'm a **Computer Engineering student at the University of São Paulo (USP – São Carlos campus)**, with strong interests in **software development, low-level systems, and applied engineering**.
+
+My academic and personal projects range from **systems programming in C/C++**, **data structures and algorithms**, and **computer architecture**, to **robotics and embedded systems**, often combining software and hardware perspectives.
+
+I enjoy understanding how things work *from the ground up* — from memory management and instruction sets to higher-level abstractions and applications.
+
+---
+
+## Areas of interest 🚀
+- Systems programming and low-level development  
+- Data structures, algorithms, and performance  
+- Computer architecture and embedded systems  
+- Robotics and engineering applications  
+- Linux-based development environments  
+
+---
 
 ## My Dotfiles 🧈
+Curious about my development environment?  
+You can check or test my setup using my personal dotfiles repository:
+
+👉 **[ButteryDotfiles](https://github.com/NunesAzevedo/butteryDotfiles)**
+
 ---
-Test my setup on your machine 🫵 with my [ButteryDotfiles](https://github.com/NunesAzevedo/butteryDotfiles).
+
+> *“Always learning, always building.”*
