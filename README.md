@@ -39,7 +39,7 @@ I enjoy understanding how systems work *from the ground up* — from memory mana
     Hidden languages: shaders and other non-core languages
     Add more items separated by commas if needed
   -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=butteryDotfiles&hide=GLSL" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=butteryDotfiles&hide=GLSL,CSS,Shell" alt="Most Used Languages" />
 
 </div>
 
