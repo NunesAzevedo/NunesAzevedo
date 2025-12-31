@@ -8,10 +8,15 @@ Welcome to my personal GitHub profile — here you’ll find academic, experimen
 
   <br><br>
 
+  <!-- GitHub general stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub General Stats" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub General Stats" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=butteryDotfiles" alt="Most Used Languages" />
+  <!-- 
+    Excluded repos: dotfiles and config-only projects
+    Hidden languages: shaders and other non-core languages
+    Add more items separated by commas if needed
+  -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=butteryDotfiles&hide=GLSL" alt="Most Used Languages" />
 
 </div>
 
@@ -25,6 +30,7 @@ Most of my robotics-related development is written in **C++** and hosted in **pr
 On GitHub, I maintain **personal projects**, including **automation tools**, **Linux configuration (dotfiles)**, and **university coursework**, which reflect my interests in systems programming, performance, and development environments.
 
 I enjoy understanding how systems work *from the ground up* — from memory management and instruction sets to higher-level abstractions and applications.
+
 ---
 
 ## Areas of interest 🚀
