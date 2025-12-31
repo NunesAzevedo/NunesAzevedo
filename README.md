@@ -9,9 +9,10 @@ This is my personal GitHub account with some of my personal and university proje
   <br><br>
 
 <!-- Estatísticas do Github -->
-<img src="https://github-readme-stats.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" alt="Estatísticas Gerais" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=visual_studio_code&hide_border=true" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=visual_studio_code&hide_border=true" alt="Estatísticas Gerais" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=visual_studio_code&hide_border=true" alt="Linguagens mais usadas" />
 
 
 
