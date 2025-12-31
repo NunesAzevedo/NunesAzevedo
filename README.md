@@ -9,9 +9,10 @@ Welcome to my personal GitHub profile — here you’ll find academic, experimen
   <br><br>
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub General Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NunesAzevedo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub General Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NunesAzevedo&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+
 </div>
 
 ---
