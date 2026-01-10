@@ -2,14 +2,6 @@
 # Hello there! 👋
 Welcome to my personal GitHub profile — here you’ll find academic, experimental, and personal projects developed throughout my journey in computer engineering.
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" height="170" alt="Obi-Wan Kenobi Hello There" />
-  <img src="https://media1.tenor.com/m/smu7cmwm4rYAAAAd/general-kenobi-kenobi.gif" height="170" alt="General Grievous General Kenobi" />
-
-  <br><br>
-
-</div>
-
 
 ## About me 🙋‍♂️
 I'm a **Computer Engineering student at the University of São Paulo (USP – São Carlos campus)**, with strong interests in **software development, low-level systems, and applied engineering**.
