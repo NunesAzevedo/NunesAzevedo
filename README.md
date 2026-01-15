@@ -20,6 +20,8 @@ I enjoy understanding how systems work *from the ground up* — from memory mana
 - Robotics and engineering applications  
 - Linux-based development environments  
 
+## My CV
+My CV is in this [link](https://github.com/NunesAzevedo/NunesAzevedo/blob/main/Paulo_Nunes_CV_Eng_Computacao.pdf) in brazilian portuguese.
 
 <div align="center">
 
